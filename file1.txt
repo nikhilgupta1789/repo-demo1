@@ -1,2 +1,2 @@
 This is a new file1.txt
-This is new line added into file1
+This is new line added into file1.txt
